@@ -1,0 +1,345 @@
+rt,trial_type,trial_index,time_elapsed,responses,name,key_press,is_stimulus,stimulus,stimulus_block,stimulus_side,time_post_trial,is_fullscreen,trial_began,os,browser,mobile,screen_size,block,sub_block
+20326,instructions,0,20327,,,,,,,,,,,,,,,,
+14366,survey-multi-choice,1,34695,"{""Q0"":""אישה"",""Q1"":""ימין"",""Q2"":""ערבית""}",,,,,,,,,,,,,,,
+3527,survey-text,2,38223,"{""Q0"":""19""}",,,,,,,,,,,,,,,
+6215,survey-multi-choice,3,44439,"{""Q0"":""לא""}",,,,,,,,,,,,,,,
+15360,survey-likert,4,59799,"{""Q0"":0}",attention_2,,,,,,,,,,,,,,
+27632,instructions,5,87431,,,,,,,,,,,,,,,,
+null,image-cpt,6,89645,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,7,92860,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,8,95076,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,9,97295,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,10,100524,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,11,102242,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,12,105458,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,13,107669,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,14,109901,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,15,111610,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,16,114328,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,17,116044,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,18,118273,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,19,120509,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,20,122236,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,21,124956,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,22,128195,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,23,130925,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,24,134143,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,25,136858,,,null,TRUE,,training,,,,,,,,,,
+null,image-cpt,26,139581,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,27,141810,,,null,FALSE,,training,,,,,,,,,,
+null,image-cpt,28,145038,,,null,FALSE,,training,,,,,,,,,,
+18536,instructions,29,163574,,,,,,,,,,,,,,,,
+null,image-cpt,30,166308,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,31,168036,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,32,171260,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,33,172987,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,34,176217,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,35,179430,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,36,182149,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,37,184877,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,38,187594,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,39,189319,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,40,191046,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,41,192779,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,42,195506,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,43,198728,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,44,201453,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,45,203177,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,46,205399,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,47,208619,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,48,210828,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,49,213056,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,50,216285,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,51,218522,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,52,220256,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,53,221971,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,54,225195,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,55,228423,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,56,231152,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,57,233882,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,58,236103,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,59,239329,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,60,241044,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,61,242766,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,62,244490,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,63,246218,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,64,248446,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,65,250664,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,66,252892,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,67,255611,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,68,257842,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,69,260566,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,70,262303,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,71,265524,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,72,268246,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,73,270481,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,74,272210,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,75,275430,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,76,278649,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,77,281871,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,78,285098,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,79,286828,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,80,290057,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,81,292790,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,82,295523,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,83,297761,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,84,299503,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,85,301736,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,86,304965,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,87,306690,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,88,309914,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,89,312123,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,90,314849,,,null,TRUE,,,,,,,,,,,,
+1925,image-cpt,91,317067,,,32,TRUE,,,,,,,,,,,,
+null,image-cpt,92,319289,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,93,321018,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,94,324255,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,95,326967,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,96,330203,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,97,332438,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,98,335654,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,99,337875,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,100,339592,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,101,341308,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,102,343515,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,103,346232,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,104,349452,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,105,351668,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,106,354896,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,107,357135,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,108,358842,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,109,360559,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,110,362793,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,111,365009,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,112,366733,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,113,368964,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,114,371687,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,115,373906,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,116,375639,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,117,377860,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,118,379598,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,119,382312,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,120,385048,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,121,387280,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,122,390009,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,123,392245,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,124,394965,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,125,398175,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,126,400394,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,127,402112,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,128,404347,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,129,406064,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,130,407779,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,131,411010,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,132,413720,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,133,416460,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,134,418698,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,135,421930,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,136,424158,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,137,427385,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,138,429612,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,139,432335,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,140,435066,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,141,437283,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,142,440510,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,143,442750,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,144,444976,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,145,446689,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,146,449924,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,147,453141,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,148,455359,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,149,457076,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,150,458785,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,151,461514,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,152,463743,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,153,465956,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,154,469190,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,155,470903,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,156,474126,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,157,475860,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,158,478583,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,159,481314,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,160,483035,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,161,484750,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,162,487480,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,163,489689,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,164,492417,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,165,495643,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,166,497366,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,167,500598,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,168,502812,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,169,506042,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,170,509250,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,171,511956,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,172,513663,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,173,516385,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,174,518122,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,175,520846,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,176,523057,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,177,524785,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,178,527509,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,179,530722,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,180,533950,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,181,537181,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,182,539910,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,183,543120,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,184,545841,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,185,547572,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,186,550788,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,187,553023,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,188,555245,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,189,557462,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,190,559169,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,191,560902,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,192,563123,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,193,565843,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,194,567561,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,195,570298,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,196,573525,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,197,575760,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,198,578481,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,199,581691,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,200,584408,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,201,586645,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,202,589857,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,203,592081,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,204,594286,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,205,597507,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,206,600219,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,207,601942,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,208,603659,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,209,606883,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,210,609610,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,211,612820,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,212,616050,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,213,619278,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,214,620995,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,215,623726,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,216,625454,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,217,628672,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,218,631394,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,219,634609,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,220,636825,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,221,639561,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,222,641275,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,223,642987,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,224,646216,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,225,649440,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,226,651660,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,227,653387,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,228,656117,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,229,658338,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,230,660568,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,231,662280,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,232,665006,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,233,667733,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,234,670952,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,235,673168,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,236,675887,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,237,678112,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,238,681321,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,239,684042,,,null,FALSE,,,,,,,,,,,,
+null,image-cpt,240,685753,,,null,TRUE,,,,,,,,,,,,
+null,image-cpt,241,687977,,,null,FALSE,,,,,,,,,,,,
+102188,instructions,242,790165,,,,,,,,,,,,,,,,
+2525.5,bRMS,243,792755,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+948.5,bRMS,244,794161,,,P,,images/rms/f42887_e_001.jpg,training,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+880.3,bRMS,245,795506,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+698.7,bRMS,246,796674,,,P,,images/rms/f42887_e_001.jpg,training,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1058.3,bRMS,247,798193,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+927.2,bRMS,248,799585,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+886.7,bRMS,249,800946,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1884.7,bRMS,250,803297,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+914.5999999,bRMS,251,804675,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1067.5,bRMS,252,806210,,,Q,,images/rms/f42887_e_001.jpg,training,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+8608,instructions,253,815230,,,,,,,,,,,,,,,,
+1676.5,bRMS,254,816961,,,P,,images/rms/f42887_e_258_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+768.1000001,bRMS,255,818193,,,Q,,images/rms/f42887_e_258.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+573.5,bRMS,256,819234,,,P,,images/rms/f42887_e_296_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+563.7,bRMS,257,820257,,,Q,,images/rms/f42887_e_103_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+540.7,bRMS,258,821265,,,P,,images/rms/f42887_e_058.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+581.9000001,bRMS,259,822305,,,Q,,images/rms/f42887_e_025_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+683.6000001,bRMS,260,823458,,,P,,images/rms/f42887_e_278.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+841.5999999,bRMS,261,824769,,,Q,,images/rms/f42887_e_053.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+868.2,bRMS,262,826097,,,Q,,images/rms/f42887_e_005_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+546.4000001,bRMS,263,827106,,,P,,images/rms/f42887_e_156_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+825.1999998,bRMS,264,828401,,,Q,,images/rms/f42887_e_072.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+519.2,bRMS,265,829378,,,P,,images/rms/f42887_e_098.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+561.3000002,bRMS,266,830402,,,P,,images/rms/f42887_e_121_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+854.7,bRMS,267,831713,,,P,,images/rms/f42887_e_127.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+547.8,bRMS,268,832721,,,P,,images/rms/f42887_e_259.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+872.5,bRMS,269,834049,,,Q,,images/rms/f42887_e_297_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+661.0999999,bRMS,270,835170,,,P,,images/rms/f42887_e_252_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+617.6000001,bRMS,271,836240,,,P,,images/rms/f42887_e_180.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+989.7,bRMS,272,837697,,,Q,,images/rms/f42887_e_140.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1215.9,bRMS,273,839376,,,Q,,images/rms/f42887_e_295_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+602.3,bRMS,274,840449,,,P,,images/rms/f42887_e_161.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+674.2,bRMS,275,841585,,,P,,images/rms/f42887_e_064_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+581,bRMS,276,842625,,,P,,images/rms/f42887_e_053_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+640.5,bRMS,277,843729,,,Q,,images/rms/f42887_e_156.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+529.9000001,bRMS,278,844721,,,P,,images/rms/f42887_e_252.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+824.0999999,bRMS,279,846002,,,Q,,images/rms/f42887_e_296.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+978.2,bRMS,280,847442,,,Q,,images/rms/f42887_e_121.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+767.8,bRMS,281,848675,,,Q,,images/rms/f42887_e_098_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+683.6000001,bRMS,282,849824,,,Q,,images/rms/f42887_e_005.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+589.7,bRMS,283,850882,,,P,,images/rms/f42887_e_289.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+804.5,bRMS,284,852145,,,Q,,images/rms/f42887_e_140_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+511.1000001,bRMS,285,853122,,,P,,images/rms/f42887_e_058_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+695.9000001,bRMS,286,854289,,,Q,,images/rms/f42887_e_289_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+604.9000001,bRMS,287,855361,,,P,,images/rms/f42887_e_180_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+624.4000001,bRMS,288,856449,,,P,,images/rms/f42887_e_161_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+596,bRMS,289,857505,,,Q,,images/rms/f42887_e_072_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+683.2,bRMS,290,858657,,,Q,,images/rms/f42887_e_259_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+684.8,bRMS,291,859808,,,Q,,images/rms/f42887_e_298_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+636.8,bRMS,292,860913,,,Q,,images/rms/f42887_e_202.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+803.7,bRMS,293,862176,,,Q,,images/rms/f42887_e_064.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+612.5999999,bRMS,294,863248,,,P,,images/rms/f42887_e_278_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+598.6000001,bRMS,295,864306,,,Q,,images/rms/f42887_e_293_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1214.3,bRMS,296,865985,,,Q,,images/rms/f42887_e_241_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1018.5,bRMS,297,867473,,,Q,,images/rms/f42887_e_297.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1001.2,bRMS,298,868945,,,P,,images/rms/f42887_e_127_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+692,bRMS,299,870097,,,P,,images/rms/f42887_e_241.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+737.3000002,bRMS,300,871297,,,Q,,images/rms/f42887_e_015_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+772.7,bRMS,301,872530,,,Q,,images/rms/f42887_e_298.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+1843.9,bRMS,302,874833,,,Q,,images/rms/f42887_e_080_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+791.3999999,bRMS,303,876081,,,P,,images/rms/f42887_e_028_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+836.8,bRMS,304,877377,,,P,,images/rms/f42887_e_103.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+817.1000001,bRMS,305,878656,,,Q,,images/rms/f42887_e_245_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+555.8,bRMS,306,879680,,,P,,images/rms/f42887_e_001_1.jpg,reversed,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+740.9000001,bRMS,307,880880,,,P,,images/rms/f42887_e_295.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+824.1000001,bRMS,308,882161,,,Q,,images/rms/f42887_e_202_1.jpg,reversed,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+690.2,bRMS,309,883313,,,Q,,images/rms/f42887_e_080.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+598.2,bRMS,310,884369,,,P,,images/rms/f42887_e_015.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+620.8,bRMS,311,885457,,,P,,images/rms/f42887_e_028.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+640.3999999,bRMS,312,886561,,,Q,,images/rms/f42887_e_001.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+660,bRMS,313,887681,,,P,,images/rms/f42887_e_025.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+706.5999999,bRMS,314,888849,,,Q,,images/rms/f42887_e_293.jpg,main,1,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+514.8,bRMS,315,889823,,,P,,images/rms/f42887_e_245.jpg,main,0,400,FALSE,0,Windows 10,Chrome 101 (101.0.4951.64),FALSE,,63,63
+15083,instructions,316,905317,,,,,,,,,,,,,,,,
+47999,survey-likert,317,953318,"{""Q0"":2,""Q1"":3,""Q2"":0}",ASRS_6,,,,,,,,,,,,,ASRS,
+27863,survey-likert,318,981181,"{""Q0"":1,""Q1"":2,""Q2"":0}",ASRS_9,,,,,,,,,,,,,ASRS,
+27687,survey-likert,319,1008869,"{""Q0"":2,""Q1"":4,""Q2"":1}",ASRS_15,,,,,,,,,,,,,ASRS,
+24959,survey-likert,320,1033829,"{""Q0"":1,""Q1"":2,""Q2"":4}",ASRS_12,,,,,,,,,,,,,ASRS,
+29375,survey-likert,321,1063205,"{""Q0"":2,""Q1"":4,""Q2"":2}",ASRS_3,,,,,,,,,,,,,ASRS,
+19767,survey-likert,322,1082973,"{""Q0"":1,""Q1"":2,""Q2"":1}",ASRS_0,,,,,,,,,,,,,ASRS,
+12520,instructions,323,1095493,,,,,,,,,,,,,,,,
+28664,survey-likert,324,1124157,"{""Q0"":1,""Q1"":3,""Q2"":1}",Barratt_12,,,,,,,,,,,,,,
+11472,survey-likert,325,1135629,"{""Q0"":1,""Q1"":2,""Q2"":2}",Barratt_18,,,,,,,,,,,,,,
+19528,survey-likert,326,1155157,"{""Q0"":1,""Q1"":2,""Q2"":1}",Barratt_24,,,,,,,,,,,,,,
+15567,survey-likert,327,1170725,"{""Q0"":0,""Q1"":0,""Q2"":1}",Barratt_15,,,,,,,,,,,,,,
+13335,survey-likert,328,1184061,"{""Q0"":1,""Q1"":1,""Q2"":1}",Barratt_3,,,,,,,,,,,,,,
+15256,survey-likert,329,1199317,"{""Q0"":0,""Q1"":0,""Q2"":1}",Barratt_21,,,,,,,,,,,,,,
+14176,survey-likert,330,1213493,"{""Q0"":0,""Q1"":2,""Q2"":2}",Barratt_6,,,,,,,,,,,,,,
+10991,survey-likert,331,1224485,"{""Q0"":1,""Q1"":1,""Q2"":1}",Barratt_0,,,,,,,,,,,,,,
+14471,survey-likert,332,1238957,"{""Q0"":1,""Q1"":1,""Q2"":1}",Barratt_9,,,,,,,,,,,,,,
+11055,survey-likert,333,1250013,"{""Q0"":1,""Q1"":2,""Q2"":2}",Barratt_27,,,,,,,,,,,,,,
+7551,survey-likert,334,1257565,"{""Q0"":3}",LAST_1,,,,,,,,,,,,,,
+12367,survey-multi-choice,335,1269933,"{""Q0"":""לא""}",,,,,,,,,,,,,,,
+3511,survey-text,336,1273445,"{""Q0"":""""}",,,,,,,,,,,,,,,
+13703,survey-likert,337,1287149,"{""Q0"":3}",LAST_4,,,,,,,,,,,,,,
+7350,survey-multi-choice,338,1294501,"{""Q0"":""לא""}",,,,,,,,,,,,,,,
+799,survey-text,339,1295301,"{""Q0"":""""}",,,,,,,,,,,,,,,
+18335,survey-likert,340,1313637,"{""Q0"":3}",DRIVE_1,,,,,,,,,,,,,,
+23863,survey-text,341,1337501,"{""Q0"":""2""}",,,,,,,,,,,,,,,
+10535,survey-text,342,1348037,"{""Q0"":""1""}",,,,,,,,,,,,,,,
+3943,instructions,343,1351981,,,,,,,,,,,,,,,,
