@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 
 
 def getCorrTable(df):
+    # get df with only numeric columns
+    df = df.select_dtypes(include=np.number)
     rho = df.corr()
     pval = df.corr(method=lambda x, y: pearsonr(x, y)[1]) - np.eye(*rho.shape)
     p = pval.applymap(lambda x: ''.join(
@@ -50,17 +52,18 @@ def plot_two_columns_with_regression_line_and_color(df, x, y, color):
     plt.plot(X, Y_pred, color='red')
     plt.show()
 
+
 def get_normelaized_df(df_origin, x, y, sd=2.5):
-        df = df_origin.copy()
-        x_mean = df[x].mean()
-        x_sd = df[x].std()
-        y_mean = df[y].mean()
-        y_sd = df[y].std()
-        df = df[(df[x] > (x_mean - (sd * x_sd))) &
-                (df[x] < (x_mean + (sd * x_sd)))]
-        df = df[(df[y] > (y_mean - (sd * y_sd))) &
-                (df[y] < (y_mean + (sd * y_sd)))]
-        return df
+    df = df_origin.copy()
+    x_mean = df[x].mean()
+    x_sd = df[x].std()
+    y_mean = df[y].mean()
+    y_sd = df[y].std()
+    df = df[(df[x] > (x_mean - (sd * x_sd))) &
+            (df[x] < (x_mean + (sd * x_sd)))]
+    df = df[(df[y] > (y_mean - (sd * y_sd))) &
+            (df[y] < (y_mean + (sd * y_sd)))]
+    return df
 
 
 def add_regression_line(df, ax, x, y, color='red'):
@@ -72,7 +75,7 @@ def add_regression_line(df, ax, x, y, color='red'):
     ax.plot(X, Y_pred, color=color)
 
 
-def plot_multiple_two_columns_with_regression_line(plots, in_line=3):
+def plot_multiple_two_columns_with_regression_line(plots, in_line=3, add_normelaized_title=False):
     import math
 
     def add_title(ax, x, y, fix_outliers, dataset_name):
@@ -83,19 +86,26 @@ def plot_multiple_two_columns_with_regression_line(plots, in_line=3):
                 round(pearsonr(current_df[x], current_df[y])[1], round_index))
         except:
             p_value_str = "null"
-            
+
         try:
             corr = str(round(current_df[x].corr(current_df[y]), 4))
         except:
             corr = "null"
 
-        title = dataset_name + ", Normalized: " + str(fix_outliers) + "\n" + \
-        'P value: ' + p_value_str + \
-            " Corr: " + corr + \
-            " N: " + str(len(current_df))
+        title = dataset_name
+        
+        if add_normelaized_title:
+            title += ", Normalized: " + str(fix_outliers) 
+            
+        title += "\n" + \
+                'P value: ' + p_value_str + \
+                " Corr: " + corr + \
+                " N: " + str(len(current_df))
+            
+        
+            
         ax.set_title(title)
 
-    
     cols = in_line
     rows = math.ceil(len(plots) / in_line)
     fig, axis = plt.subplots(rows, cols, figsize=(20, 8 * rows))
@@ -118,19 +128,19 @@ def plot_multiple_two_columns_with_regression_line(plots, in_line=3):
             axis[y_axis].set_xlabel(x)
             axis[y_axis].set_ylabel(y)
             axis[y_axis].scatter(
-                current_df[x], current_df[y], cmap='viridis')
+                current_df[x], current_df[y])
             add_title(axis[y_axis], x, y, fix_outliers, dataset_name)
             add_regression_line(current_df, axis[y_axis], x, y)
         else:
             axis[x_axis, y_axis].set_xlabel(x)
             axis[x_axis, y_axis].set_ylabel(y)
-            axis[x_axis, y_axis].scatter(
-                current_df[x], current_df[y], cmap='viridis')
+            axis[x_axis, y_axis].scatter(current_df[x], current_df[y])
             add_title(axis[x_axis, y_axis], x, y, fix_outliers, dataset_name)
             add_regression_line(current_df, axis[x_axis, y_axis], x, y)
 
     plt.show()
-    
+
+
 def plot_two_cols_with_regression_line(df, x, y, x_label, y_label):
     fig, ax = plt.subplots(figsize=(10, 10))
     ax.set_xlabel(x_label)
